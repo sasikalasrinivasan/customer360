@@ -1,0 +1,121 @@
+customer_id,customer_name,signup_date,region,segment,industry,account_owner,contract_tier,employee_count,country,active_flag,order_count,total_net_revenue,ticket_count,average_resolution_hours,average_satisfaction_score,value_tier,risk_flag
+C-0001,Customer 1 Analytics,2024-01-12,South,Mid-Market,Healthcare,Vikram Menon,Silver,97,USA,Y,1.0,1566.7171999999998,6.0,168.0,3.3333333333333335,Tier 2 (Core),1
+C-0002,Customer 2 Analytics,2024-01-23,East,SMB,Finance,Priya Shah,Gold,144,UK,Y,1.0,7672.654399999999,0.0,,,Tier 1 (VIP),0
+C-0003,Customer 3 Analytics,2024-02-03,West,Strategic,Manufacturing,Rahul Iyer,Platinum,191,UAE,N,1.0,3749.0969999999993,0.0,,,Tier 2 (Core),0
+C-0004,Customer 4 Analytics,2024-02-14,Central,Public Sector,Telecom,Neha Gupta,Bronze,238,Singapore,Y,1.0,2164.5526,0.0,,,Tier 2 (Core),0
+C-0005,Customer 5 Analytics,2024-02-25,North,Enterprise,Logistics,Daniel Thomas,Silver,285,India,Y,2.0,9613.8888,0.0,,,Tier 1 (VIP),0
+C-0006,Customer 6 Analytics,2024-03-07,South,Mid-Market,Energy,Maya Nair,Gold,332,USA,Y,2.0,10961.5986,7.0,84.0,2.5714285714285716,Tier 1 (VIP),1
+C-0007,Customer 7 Analytics,2024-03-18,East,SMB,Technology,Karan Mehta,Platinum,379,UK,N,2.0,7664.4218,0.0,,,Tier 1 (VIP),0
+C-0008,Customer 8 Analytics,2024-03-29,West,Strategic,Retail,Asha Rao,Bronze,426,UAE,Y,2.0,2036.6371,0.0,,,Tier 2 (Core),0
+C-0009,Customer 9 Analytics,2024-04-09,Central,Public Sector,Healthcare,Vikram Menon,Silver,473,Singapore,Y,1.0,7387.338000000001,0.0,,,Tier 1 (VIP),0
+C-0010,Customer 10 Analytics,2024-04-20,North,Enterprise,Finance,Priya Shah,Gold,520,India,Y,1.0,5678.3218,0.0,,,Tier 1 (VIP),0
+C-0011,Customer 11 Analytics,2024-05-01,South,Mid-Market,Manufacturing,Rahul Iyer,Platinum,567,USA,N,1.0,2155.9382,7.0,120.0,2.857142857142857,Tier 2 (Core),1
+C-0012,Customer 12 Analytics,2024-05-12,East,SMB,Telecom,Neha Gupta,Bronze,614,UK,Y,2.0,9954.1206,0.0,,,Tier 1 (VIP),0
+C-0013,Customer 13 Analytics,2024-05-23,West,Strategic,Logistics,Daniel Thomas,Silver,661,UAE,Y,2.0,12827.9972,0.0,,,Tier 1 (VIP),0
+C-0014,Customer 14 Analytics,2024-06-03,Central,Public Sector,Energy,Maya Nair,Gold,708,Singapore,Y,2.0,7522.9417,0.0,,,Tier 1 (VIP),0
+C-0015,Customer 15 Analytics,2024-06-14,North,Enterprise,Technology,Karan Mehta,Platinum,755,India,N,2.0,2171.859,0.0,,,Tier 2 (Core),0
+C-0016,Customer 16 Analytics,2024-06-25,South,Mid-Market,Retail,Asha Rao,Bronze,802,USA,Y,1.0,7084.672600000001,6.0,129.6,2.8333333333333335,Tier 1 (VIP),1
+C-0017,Customer 17 Analytics,2024-07-06,East,SMB,Healthcare,Vikram Menon,Silver,849,UK,Y,0.0,0.0,0.0,,,Tier 3 (Standard),0
+C-0018,Customer 18 Analytics,2024-07-17,West,Strategic,Finance,Priya Shah,Gold,896,UAE,Y,1.0,2129.9748,0.0,,,Tier 2 (Core),0
+C-0019,Customer 19 Analytics,2024-07-28,Central,Public Sector,Manufacturing,Rahul Iyer,Platinum,943,Singapore,N,2.0,9695.7018,0.0,,,Tier 1 (VIP),0
+C-0020,Customer 20 Analytics,2024-08-08,North,Enterprise,Telecom,Neha Gupta,Bronze,990,India,Y,2.0,12375.1171,0.0,,,Tier 1 (VIP),0
+C-0021,Customer 21 Analytics,2024-08-19,South,Mid-Market,Logistics,Daniel Thomas,Silver,1037,USA,Y,2.0,7346.763599999999,7.0,168.0,3.4285714285714284,Tier 1 (VIP),1
+C-0022,Customer 22 Analytics,2024-08-30,East,SMB,Energy,Maya Nair,Gold,1084,UK,Y,2.0,3201.8813,0.0,,,Tier 2 (Core),0
+C-0023,Customer 23 Analytics,2024-09-10,West,Strategic,Technology,Karan Mehta,Platinum,1131,UAE,N,1.0,6764.6582,0.0,,,Tier 1 (VIP),0
+C-0024,Customer 24 Analytics,2024-09-21,Central,Public Sector,Retail,Asha Rao,Bronze,1178,Singapore,Y,1.0,5394.8004,0.0,,,Tier 1 (VIP),0
+C-0025,Customer 25 Analytics,2024-10-02,North,Enterprise,Healthcare,Vikram Menon,Silver,1225,India,Y,1.0,3256.0,0.0,,,Tier 2 (Core),0
+C-0026,Customer 26 Analytics,2024-10-13,South,Mid-Market,Finance,Priya Shah,Gold,1272,USA,Y,2.0,2091.4217,6.0,129.6,2.8333333333333335,Tier 2 (Core),1
+C-0027,Customer 27 Analytics,2024-10-24,East,SMB,Manufacturing,Rahul Iyer,Platinum,1319,UK,N,2.0,11887.539,0.0,,,Tier 1 (VIP),0
+C-0028,Customer 28 Analytics,,West,Strategic,Telecom,Neha Gupta,Bronze,1366,UAE,Y,2.0,7135.887499999999,0.0,,,Tier 1 (VIP),0
+C-0029,Customer 29 Analytics,2024-11-15,Central,Public Sector,Logistics,Daniel Thomas,Silver,1413,Singapore,Y,2.0,3330.1636,0.0,,,Tier 2 (Core),0
+C-0030,Customer 30 Analytics,2024-11-26,North,Enterprise,Energy,Maya Nair,Gold,1460,India,Y,1.0,6427.2948,0.0,,,Tier 1 (VIP),0
+C-0031,Customer 31 Analytics,2024-12-07,South,Mid-Market,Technology,Karan Mehta,Platinum,1507,USA,N,1.0,5223.400000000001,7.0,120.0,2.5714285714285716,Tier 1 (VIP),1
+C-0032,Customer 32 Analytics,2024-12-18,East,SMB,Retail,Asha Rao,Bronze,1554,UK,Y,1.0,3258.0154999999995,0.0,,,Tier 2 (Core),0
+C-0033,Customer 33 Analytics,2024-12-29,West,Strategic,Healthcare,Vikram Menon,Silver,1601,UAE,Y,2.0,2242.4435999999996,0.0,,,Tier 2 (Core),0
+C-0034,Customer 34 Analytics,2025-01-09,Central,Public Sector,Finance,Priya Shah,Gold,1648,Singapore,Y,2.0,14536.8413,0.0,,,Tier 1 (VIP),0
+C-0035,Customer 35 Analytics,2025-01-20,North,Enterprise,Manufacturing,Rahul Iyer,Platinum,1695,India,N,1.0,4343.3782,0.0,,,Tier 2 (Core),0
+C-0036,Customer 36 Analytics,2025-01-31,South,Mid-Market,Telecom,Neha Gupta,Bronze,1742,USA,Y,2.0,3423.7479000000003,7.0,132.0,2.857142857142857,Tier 2 (Core),1
+C-0037,Customer 37 Analytics,2025-02-11,East,SMB,Logistics,Daniel Thomas,Silver,1789,UK,Y,1.0,9484.0,0.0,,,Tier 1 (VIP),0
+C-0038,Customer 38 Analytics,2025-02-22,West,Strategic,Energy,Maya Nair,Gold,1836,UAE,Y,1.0,5038.4873,0.0,,,Tier 1 (VIP),0
+C-0039,Customer 39 Analytics,2025-03-05,Central,Public Sector,Technology,Karan Mehta,Platinum,1883,Singapore,N,1.0,3242.6820000000002,0.0,,,Tier 2 (Core),0
+C-0040,Customer 40 Analytics,2025-03-16,North,Enterprise,Retail,Asha Rao,Bronze,1930,India,Y,2.0,2577.3826,0.0,,,Tier 2 (Core),0
+C-0041,Customer 41 Analytics,2025-03-27,South,Mid-Market,Healthcare,Vikram Menon,Silver,1977,USA,Y,2.0,14042.3236,7.0,168.0,3.142857142857143,Tier 1 (VIP),1
+C-0042,Customer 42 Analytics,2025-04-07,East,SMB,Finance,Priya Shah,Gold,2024,UK,Y,1.0,3981.7484999999997,0.0,,,Tier 2 (Core),0
+C-0043,Customer 43 Analytics,2025-04-18,West,Strategic,Manufacturing,Rahul Iyer,Platinum,2071,UAE,N,1.0,938.658,0.0,,,Tier 3 (Standard),0
+C-0044,Customer 44 Analytics,2025-04-29,Central,Public Sector,Telecom,Neha Gupta,Bronze,2118,Singapore,Y,1.0,9174.6155,0.0,,,Tier 1 (VIP),0
+C-0045,Customer 45 Analytics,2025-05-10,North,Enterprise,Logistics,Daniel Thomas,Silver,2165,India,Y,1.0,4836.2256,0.0,,,Tier 2 (Core),0
+C-0046,Customer 46 Analytics,2025-05-21,South,Mid-Market,Energy,Maya Nair,Gold,2212,USA,Y,1.0,3209.9995,7.0,204.0,3.4285714285714284,Tier 2 (Core),1
+C-0047,Customer 47 Analytics,2025-06-01,East,SMB,Technology,Karan Mehta,Platinum,2259,UK,N,2.0,2741.339,0.0,,,Tier 2 (Core),0
+C-0048,Customer 48 Analytics,2025-06-12,West,Strategic,Retail,Asha Rao,Bronze,2306,UAE,Y,2.0,13513.107899999999,0.0,,,Tier 1 (VIP),0
+C-0049,Customer 49 Analytics,2025-06-23,Central,Public Sector,Healthcare,Vikram Menon,Silver,2353,Singapore,Y,2.0,10132.3472,0.0,,,Tier 1 (VIP),0
+C-0050,Customer 50 Analytics,2025-07-04,North,Enterprise,Finance,Priya Shah,Gold,2400,India,Y,2.0,3503.4267999999997,0.0,,,Tier 2 (Core),0
+C-0051,Customer 51 Analytics,2025-07-15,South,Mid-Market,Manufacturing,Rahul Iyer,Platinum,2447,USA,N,1.0,297.882,7.0,120.0,3.0,Tier 3 (Standard),1
+C-0052,Customer 52 Analytics,2025-07-26,East,SMB,Telecom,Neha Gupta,Bronze,2494,UK,Y,1.0,4616.6149,0.0,,,Tier 2 (Core),0
+C-0053,Customer 53 Analytics,2025-08-06,West,Strategic,Logistics,Daniel Thomas,Silver,2541,UAE,Y,1.0,3159.9680000000003,0.0,,,Tier 2 (Core),0
+C-0054,Customer 54 Analytics,2025-08-17,Central,Public Sector,Energy,Maya Nair,Gold,2588,Singapore,Y,2.0,2850.7233,0.0,,,Tier 2 (Core),0
+C-0055,Customer 55 Analytics,2025-08-28,North,Enterprise,Technology,Karan Mehta,Platinum,2635,India,N,2.0,12945.578000000001,0.0,,,Tier 1 (VIP),0
+C-0056,Customer 56 Analytics,2025-09-08,South,Mid-Market,Retail,Asha Rao,Bronze,2682,USA,Y,2.0,9907.812399999999,7.0,132.0,2.5714285714285716,Tier 1 (VIP),1
+C-0057,Customer 57 Analytics,2025-09-19,East,SMB,Healthcare,Vikram Menon,Silver,2729,UK,Y,2.0,4100.7888,0.0,,,Tier 2 (Core),0
+C-0058,Customer 58 Analytics,2025-09-30,West,Strategic,Finance,Priya Shah,Gold,2776,UAE,Y,1.0,428.7995,0.0,,,Tier 3 (Standard),0
+C-0059,Customer 59 Analytics,2025-10-11,Central,Public Sector,Manufacturing,Rahul Iyer,Platinum,2823,Singapore,N,1.0,6922.6808,0.0,,,Tier 1 (VIP),0
+C-0060,Customer 60 Analytics,2025-10-22,North,Enterprise,Telecom,Neha Gupta,Bronze,2870,India,Y,1.0,3092.5874999999996,0.0,,,Tier 2 (Core),0
+C-0061,Customer 61 Analytics,2025-11-02,South,Mid-Market,Logistics,Daniel Thomas,Silver,2917,USA,Y,2.0,3980.9872,7.0,108.0,2.857142857142857,Tier 2 (Core),1
+C-0062,Customer 62 Analytics,2025-11-13,,SMB,Energy,Maya Nair,Gold,2964,UK,Y,2.0,12347.1868,0.0,,,Tier 1 (VIP),0
+C-0063,Customer 63 Analytics,2025-11-24,West,Strategic,Technology,Karan Mehta,Platinum,3011,UAE,N,2.0,9648.5796,0.0,,,Tier 1 (VIP),0
+C-0064,Customer 64 Analytics,2025-12-05,Central,Public Sector,Retail,Asha Rao,Bronze,3058,Singapore,Y,2.0,4114.2449,0.0,,,Tier 2 (Core),0
+C-0065,Customer 65 Analytics,2025-12-16,North,Enterprise,Healthcare,Vikram Menon,Silver,3105,India,Y,1.0,542.368,0.0,,,Tier 3 (Standard),0
+C-0066,Customer 66 Analytics,2025-12-27,South,Mid-Market,Finance,Priya Shah,Gold,3152,USA,Y,1.0,6730.8285,7.0,144.0,3.142857142857143,Tier 1 (VIP),1
+C-0067,Customer 67 Analytics,2026-01-07,East,SMB,Manufacturing,Rahul Iyer,Platinum,3199,UK,N,1.0,3007.8579999999997,0.0,,,Tier 2 (Core),0
+C-0068,Customer 68 Analytics,2026-01-18,West,Strategic,Telecom,Neha Gupta,Bronze,3246,UAE,Y,1.0,1125.8369,0.0,,,Tier 3 (Standard),0
+C-0069,Customer 69 Analytics,2026-01-29,Central,Public Sector,Logistics,Daniel Thomas,Silver,3293,Singapore,Y,2.0,14563.8288,0.0,,,Tier 1 (VIP),0
+C-0070,Customer 70 Analytics,2024-01-11,North,Enterprise,Energy,Maya Nair,Gold,3340,India,Y,2.0,9351.4295,0.0,,,Tier 1 (VIP),0
+C-0071,Customer 71 Analytics,2024-01-22,South,Mid-Market,Technology,Karan Mehta,Platinum,3387,USA,N,2.0,5462.3422,7.0,156.0,3.4285714285714284,Tier 1 (VIP),1
+C-0072,Customer 72 Analytics,2024-02-02,East,SMB,Retail,Asha Rao,Bronze,3434,UK,Y,1.0,638.5875000000001,0.0,,,Tier 3 (Standard),0
+C-0073,Customer 73 Analytics,2024-02-13,West,Strategic,Healthcare,Vikram Menon,Silver,3481,UAE,Y,1.0,6521.6272,0.0,,,Tier 1 (VIP),0
+C-0074,Customer 74 Analytics,2024-02-24,Central,Public Sector,Finance,Priya Shah,Gold,3528,Singapore,Y,0.0,0.0,0.0,,,Tier 3 (Standard),0
+C-0075,Customer 75 Analytics,2024-03-06,North,Enterprise,Manufacturing,Rahul Iyer,Platinum,3575,India,N,1.0,1193.3376,0.0,,,Tier 3 (Standard),0
+C-0076,Customer 76 Analytics,2024-03-17,South,Mid-Market,Telecom,Neha Gupta,Bronze,3622,USA,Y,1.0,232.1349,7.0,132.0,3.0,Tier 3 (Standard),1
+C-0077,Customer 77 Analytics,,East,SMB,Logistics,Daniel Thomas,Silver,3669,UK,Y,2.0,9023.0212,0.0,,,Tier 1 (VIP),0
+C-0078,Customer 78 Analytics,2024-04-08,West,Strategic,Energy,Maya Nair,Gold,3716,UAE,Y,2.0,5473.0923,0.0,,,Tier 1 (VIP),0
+C-0079,Customer 79 Analytics,2024-04-19,Central,Public Sector,Technology,Karan Mehta,Platinum,3763,Singapore,N,1.0,717.458,0.0,,,Tier 3 (Standard),0
+C-0080,Customer 80 Analytics,2024-04-30,North,Enterprise,Retail,Asha Rao,Bronze,3810,India,Y,1.0,6295.0769,0.0,,,Tier 1 (VIP),0
+C-0081,Customer 81 Analytics,2024-05-11,South,Mid-Market,Healthcare,Vikram Menon,Silver,3857,USA,Y,1.0,4458.1632,7.0,108.0,2.5714285714285716,Tier 2 (Core),1
+C-0082,Customer 82 Analytics,2024-05-22,East,SMB,Finance,Priya Shah,Gold,3904,UK,Y,1.0,1240.27,0.0,,,Tier 3 (Standard),0
+C-0083,Customer 83 Analytics,2024-06-02,West,Strategic,Manufacturing,Rahul Iyer,Platinum,3951,UAE,N,2.0,7611.8622,0.0,,,Tier 1 (VIP),0
+C-0084,Customer 84 Analytics,2024-06-13,Central,Public Sector,Telecom,Neha Gupta,Bronze,3998,Singapore,Y,2.0,10574.3877,0.0,,,Tier 1 (VIP),0
+C-0085,Customer 85 Analytics,2024-06-24,North,Enterprise,Logistics,Daniel Thomas,Silver,4045,India,Y,2.0,5449.144399999999,0.0,,,Tier 1 (VIP),0
+C-0086,Customer 86 Analytics,2024-07-05,South,Mid-Market,Energy,Maya Nair,Gold,4092,USA,Y,1.0,778.9795,6.0,144.0,3.0,Tier 3 (Standard),1
+C-0087,Customer 87 Analytics,2024-07-16,East,SMB,Technology,Karan Mehta,Platinum,4139,UK,N,1.0,6051.1776,0.0,,,Tier 1 (VIP),0
+C-0088,Customer 88 Analytics,2024-07-27,West,Strategic,Retail,Asha Rao,Bronze,4186,UAE,Y,1.0,4379.83,0.0,,,Tier 2 (Core),0
+C-0089,Customer 89 Analytics,2024-08-07,Central,Public Sector,Healthcare,Vikram Menon,Silver,4233,Singapore,Y,0.0,0.0,0.0,,,Tier 3 (Standard),0
+C-0090,Customer 90 Analytics,2024-08-18,North,Enterprise,Finance,Priya Shah,Gold,4280,India,Y,2.0,7474.8123,0.0,,,Tier 1 (VIP),0
+C-0091,Customer 91 Analytics,2024-08-29,South,Mid-Market,Manufacturing,Rahul Iyer,Platinum,4327,USA,N,2.0,10239.039799999999,6.0,158.4,2.8,Tier 1 (VIP),1
+C-0092,Customer 92 Analytics,2024-09-09,East,SMB,Telecom,Neha Gupta,Bronze,4374,UK,Y,2.0,5390.4985,0.0,,,Tier 1 (VIP),0
+C-0093,Customer 93 Analytics,2024-09-20,West,Strategic,Logistics,Daniel Thomas,Silver,4421,UAE,Y,1.0,1317.0432,0.0,,,Tier 3 (Standard),0
+C-0094,Customer 94 Analytics,2024-10-01,Central,Public Sector,Energy,Maya Nair,Gold,4468,Singapore,Y,1.0,5786.71,0.0,,,Tier 1 (VIP),0
+C-0095,Customer 95 Analytics,2024-10-12,North,unknown_segment,Technology,Karan Mehta,Platinum,4515,India,N,1.0,4288.381399999999,0.0,,,Tier 2 (Core),0
+C-0096,Customer 96 Analytics,2024-10-23,South,Mid-Market,Retail,Asha Rao,Bronze,4562,USA,Y,1.0,2025.5202,6.0,187.2,3.3333333333333335,Tier 2 (Core),1
+C-0097,Customer 97 Analytics,2024-11-03,East,SMB,Healthcare,Vikram Menon,Silver,4609,UK,Y,2.0,7303.064399999999,0.0,,,Tier 1 (VIP),0
+C-0098,Customer 98 Analytics,2024-11-14,West,Strategic,Finance,Priya Shah,Gold,4656,UAE,Y,0.0,0.0,0.0,,,Tier 3 (Standard),0
+C-0099,Customer 99 Analytics,2024-11-25,Central,Public Sector,Manufacturing,Rahul Iyer,Platinum,4703,Singapore,N,2.0,5297.1546,0.0,,,Tier 1 (VIP),0
+C-0100,Customer 100 Analytics,2024-12-06,North,Enterprise,Telecom,Neha Gupta,Bronze,4750,India,Y,1.0,1402.31,0.0,,,Tier 3 (Standard),0
+C-0101,Customer 101 Analytics,2024-12-17,South,Mid-Market,Logistics,Daniel Thomas,Silver,4797,USA,Y,1.0,5508.333199999999,6.0,144.0,2.6666666666666665,Tier 1 (VIP),1
+C-0102,Customer 102 Analytics,2024-12-28,East,SMB,Energy,Maya Nair,Gold,4844,UK,Y,1.0,4179.5838,0.0,,,Tier 2 (Core),0
+C-0103,Customer 103 Analytics,2025-01-08,West,Strategic,Technology,Karan Mehta,Platinum,4891,UAE,N,1.0,2086.3017999999997,0.0,,,Tier 2 (Core),0
+C-0104,Customer 104 Analytics,2025-01-19,Central,Public Sector,Retail,Asha Rao,Bronze,4938,Singapore,Y,2.0,7096.618499999999,0.0,,,Tier 1 (VIP),0
+C-0105,Customer 105 Analytics,2025-01-30,North,Enterprise,Healthcare,Vikram Menon,Silver,4985,India,Y,2.0,12200.2212,0.0,,,Tier 1 (VIP),0
+C-0106,Customer 106 Analytics,2025-02-10,South,Mid-Market,Finance,Priya Shah,Gold,5032,USA,Y,2.0,6209.1518,6.0,144.0,2.8333333333333335,Tier 1 (VIP),1
+C-0107,Customer 107 Analytics,2025-02-21,East,SMB,Manufacturing,Rahul Iyer,Platinum,5079,UK,N,1.0,1474.4614,0.0,,,Tier 3 (Standard),0
+C-0108,Customer 108 Analytics,2025-03-04,West,Strategic,Telecom,Neha Gupta,Bronze,5126,UAE,Y,1.0,8191.240199999999,0.0,,,Tier 1 (VIP),0
+C-0109,Customer 109 Analytics,2025-03-15,Central,Public Sector,Logistics,Daniel Thomas,Silver,5173,Singapore,Y,1.0,4053.4372000000003,0.0,,,Tier 2 (Core),0
+C-0110,Customer 110 Analytics,2025-03-26,North,Enterprise,Energy,Maya Nair,Gold,5220,India,Y,1.0,2129.7344000000003,0.0,,,Tier 2 (Core),0
+C-0111,Customer 111 Analytics,,South,Mid-Market,Technology,Karan Mehta,Platinum,5267,USA,N,2.0,6855.4746000000005,6.0,172.8,3.0,Tier 1 (VIP),1
+C-0112,Customer 112 Analytics,2025-04-17,East,SMB,Retail,Asha Rao,Bronze,5314,UK,Y,2.0,11819.222600000001,0.0,,,Tier 1 (VIP),0
+C-0113,Customer 113 Analytics,2025-04-28,West,Strategic,Healthcare,Vikram Menon,Silver,5361,UAE,Y,2.0,6109.0887999999995,0.0,,,Tier 1 (VIP),0
+C-0114,Customer 114 Analytics,2025-05-09,Central,Public Sector,Finance,Priya Shah,Gold,5408,Singapore,Y,0.0,0.0,0.0,,,Tier 3 (Standard),0
+C-0115,Customer 115 Analytics,2025-05-20,North,Enterprise,Manufacturing,Rahul Iyer,Platinum,5455,India,N,1.0,8447.47,0.0,,,Tier 1 (VIP),0
+C-0116,Customer 116 Analytics,2025-05-31,South,Mid-Market,Telecom,Neha Gupta,Bronze,5502,USA,Y,1.0,3909.9415999999997,6.0,129.6,3.2,Tier 2 (Core),1
+C-0117,Customer 117 Analytics,2025-06-11,East,SMB,Logistics,Daniel Thomas,Silver,5549,UK,Y,1.0,2155.8179999999998,0.0,,,Tier 2 (Core),0
+C-0118,Customer 118 Analytics,2025-06-22,West,Strategic,Energy,Maya Nair,Gold,5596,UAE,Y,2.0,9861.7518,0.0,,,Tier 1 (VIP),0
+C-0119,Customer 119 Analytics,2025-07-03,Central,Public Sector,Technology,Karan Mehta,Platinum,5643,Singapore,N,2.0,11407.759600000001,0.0,,,Tier 1 (VIP),0
+C-0120,Customer 120 Analytics,2025-07-14,North,Enterprise,Retail,Asha Rao,Bronze,5690,India,Y,2.0,7775.040599999999,0.0,,,Tier 1 (VIP),0

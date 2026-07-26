@@ -1,0 +1,16 @@
+Data_Quality_Metric,Record_Count
+customers_missing_id,0
+customers_duplicate_ids,0
+customers_invalid_signup_dates,3
+customers_total_dropped,0
+orders_missing_customer_id,1
+orders_duplicate_ids,2
+orders_invalid_dates,3
+orders_invalid_or_negative_amounts,4
+orders_invalid_discounts_imputed_to_0,2
+orders_total_dropped,10
+tickets_missing_customer_id,1
+tickets_duplicate_ids,0
+tickets_invalid_created_dates,1
+tickets_out_of_bounds_scores_nullified,1
+tickets_total_dropped,2
